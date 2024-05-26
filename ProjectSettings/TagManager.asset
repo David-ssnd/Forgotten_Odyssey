@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GApple
+  - Apple
+  - Ground
+  - BackgroundTrigger
+  - Tip1
+  - Tip2
+  - Tip3
+  - bgcave
+  - Trap
+  - Transition
+  - CamFreeze
+  - BackgroundMusic
+  - Tip4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Sign
+  - Glow
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: CompleteBackground
+    uniqueID: 2402988793
+    locked: 0
+  - name: Background
+    uniqueID: 234925641
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindPlayer
+    uniqueID: 1170167501
+    locked: 0
+  - name: PlayerLayer
+    uniqueID: 3049945403
+    locked: 0
+  - name: OverPlayer
+    uniqueID: 51345745
+    locked: 0
+  - name: Terrain
+    uniqueID: 3866184377
+    locked: 0
